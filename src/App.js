@@ -10,7 +10,7 @@ export default function App() {
         <br />
         <p>
           Turn your web content into a lively carnival with Spinorama Carousel!
-          🌟 This whimsical carousel component, crafted in pure JavaScript,
+          🌟 This whimsical carousel component, crafted with CSS and some Java,
           playfully duplicates the children of a div container and sends them on
           an infinite spinning adventure. Inject fun and excitement into your
           web projects effortlessly!
